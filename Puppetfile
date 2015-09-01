@@ -171,4 +171,3 @@ mod 'windowsfeature',
 mod 'wordpress',
   :git => '/opt/puppetlabs/repos/wordpress.git',
   :ref => 'master'
-
