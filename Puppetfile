@@ -1,5 +1,9 @@
 forge 'forgeapi.puppetlabs.com'
 
+mod 'puppetlabs/vsphere', '1.1.0'
+
+mod 'andulla/vsphere_conf', '0.0.4'
+
 mod 'acl',
   :git => '/opt/puppetlabs/repos/acl.git',
   :ref => 'master'
